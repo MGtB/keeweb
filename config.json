@@ -1,0 +1,12 @@
+{
+  "settings": {
+    "dropbox": true,
+    "dropboxAppKey": "hmrnbojy8ks3pwm",
+
+    "gdrive": true,
+    "gdriveClientId": "133965603796-cqu290h4u91i9e2g5geg3mg9ab6tapej.apps.googleusercontent.com",
+
+    "onedrive": true,
+    "onedriveClientId": "bbd6d8bc-e5da-4485-92cb-d05b9753cd47"
+  }
+}
